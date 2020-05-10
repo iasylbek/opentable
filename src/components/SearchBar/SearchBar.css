@@ -27,7 +27,7 @@
 }
 
 .SearchBar-fields input:last-child {
-  margin-right: auto;
+  margin-right: 0;
 }
 
 .SearchBar-submit {
