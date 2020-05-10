@@ -4,7 +4,7 @@ This app is available online: http://opentable.surge.sh/
 
 ### Note:
 
-Part of the task: "The Name, Cuisine Types and Rating of the restaurant are displayed"
+Part of the task: "The Name, Cuisine Types and Rating of the restaurant are displayed" <br/>
 Answer: Cuisine Types and Ratings was not available as part of OpenTable API. This is probably from different API.
 
 ## Technical questions
