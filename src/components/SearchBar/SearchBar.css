@@ -45,7 +45,7 @@
 }
 
 .SearchBar-submit button:hover {
-  border: 1px solid ightgray;
+  border: 1px solid grey;
   cursor: pointer;
   background-color: #a7874b;
 }
